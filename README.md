@@ -58,7 +58,6 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: start; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=imcalledaditi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="35%"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcalledaditi&langs_count=8&theme=transparent" width="35%"/>
 
@@ -72,7 +71,7 @@
 # 🎮 Hobbies – When I'm Not Coding, I'm Clutching in Valorant
 
 <div align="center">
-  <img src="https://github.com/imcalledaditi/imcalledaditi/blob/f6265e2e4faff4c69ac9ba26b4904688b5572a46/asc.png" width="100"/>
+  <img src="https://github.com/imcalledaditi/imcalledaditi/blob/f6265e2e4faff4c69ac9ba26b4904688b5572a46/asc.png" width="90"/>
 </div>
 
 - 🏆 Peak Rank: **Ascendant** (Yes, I'm that cracked).
