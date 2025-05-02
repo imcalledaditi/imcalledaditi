@@ -1,44 +1,37 @@
 <img alt="Coding" width="100%" src="http://www.cs.jyu.fi/ai/vagan/DL4CC_files/image002.gif">
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm ADITI ROY</h1> 
-
+<h1 align="center">Hi 🪄, I'm ADITI ROY</h1> 
 
 <br>
 
-
  
 <div align="center">
-    <img src="https://github.com/imcalledaditi/imcalledaditi/blob/main/pics/bat.gif?raw=true" alt="Batman">
+    <img src="https://github.com/imcalledaditi/imcalledaditi/blob/5eafa2788eca020faa93a9b83aa28db13cc923a5/wand.gif" alt="harry">
 
 <p align="center">
   
-![Welcome Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+Batman;It's+not+who+I+am+underneath;It’s+what+I+do+that+defines+me.)</p>
+![Welcome Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+Wizard🐍;Magic+is+just+advanced+logic;Code+is+my+wand)
 
 ![View](https://komarev.com/ghpvc/?username=imcalledaditi&label=Profile%20views&color=0e75b6&style=flat) 
 </div>
 
 
 
- # 🤷🏼‍♂️ About Me-
+ # 🦉 About Me-
 
-- 📚 I'm currently a **3rd-year student** at **SRM Institute of Science and Technology, Kattankulathur**, pursuing Computer Science Engineering w/s Big Data Analytics.
+- <img src="https://github.com/imcalledaditi/imcalledaditi/blob/e6bc3b9cf2369546ffa0e7a8f9b92acd9ad56583/witch.gif" width="20" />&nbsp;&nbsp;&nbsp;Hi! I’m Aditi, a 3rd-year Computer Science Engineering student at SRM Institute of Science and Technology, Kattankulathur, specializing in Big Data Analytics.
 
-- ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- 📚 I’m passionate about data, from analyzing trends to building ML models and visual dashboards. I love turning raw data into actionable insights.
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My tech journey is a dynamic one; I'm in the process of mastering **MERN full-stack development**, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
+- 📊 I’m building skills in Python, SQL, MongoDB, and machine learning while working on real-world projects.<img align="right" src="https://github.com/imcalledaditi/imcalledaditi/blob/d2f83a314ed1813ff967ac167de075d02dd89886/omen.gif" alt="Omen" width="21%" /><br>
 
-- 🌍 Beyond code, I have an insatiable **curiosity about geopolitics** and history. Let's chat about the world's past, present, and future!
+- <img src="https://github.com/imcalledaditi/imcalledaditi/blob/d2f83a314ed1813ff967ac167de075d02dd89886/cat.gif" width="20" />&nbsp;&nbsp;&nbsp;I also have hands-on experience with MERN stack development, which enhances my understanding of how data flows through systems.
+  
+- 🎨 When I’m not coding, I love doing art, am creative, and enjoy designing.
 
-- 🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.
+- <img src="https://github.com/imcalledaditi/imcalledaditi/blob/d2f83a314ed1813ff967ac167de075d02dd89886/claw.gif" width="20" />&nbsp;&nbsp;&nbsp;My goal is to grow as a Data Analyst or Data Scientist, uncover insights, and help build smarter, data-driven solutions.
 
 
-
-
-      
  # ⚙️ Tech Stack-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -55,7 +48,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- # 🎛️ IDEs Used-
+ ## 🎛️ IDEs Used-
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![GColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -63,27 +56,30 @@
     
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=imcalledaditi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcalledaditi&langs_count=8&theme=transparent" width="32.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imcalledaditi&theme=transparent&hide_border=false" width="32.5%">
+<div align="center" style="display: flex; justify-content: center; align-items: start; gap: 20px; flex-wrap: wrap;">
 
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=imcalledaditi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="35%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcalledaditi&langs_count=8&theme=transparent" width="35%"/>
+
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imcalledaditi&theme=transparent&hide_border=false" width="50%"/>
+</div>
+
 
 # 🎮 Hobbies – When I'm Not Coding, I'm Clutching in Valorant
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1121688625415266414/1236237450405945464/480da0f8-46fa-4289-896f-9ea1ada8177e.png" width="150"/>
+  <img src="https://github.com/imcalledaditi/imcalledaditi/blob/f6265e2e4faff4c69ac9ba26b4904688b5572a46/asc.png" width="100"/>
 </div>
 
-- 🕹️ My one and only hobby is **playing video games**.
-- 🧠 Favorite game? **Valorant** – the perfect combo of chaos, tactics, and accidental 1v5s.
-- 🏆 Current Rank: **Ascendant** (Yes, I'm that cracked).
-- 🔫 Main: Duelists or go home.
+- 🏆 Peak Rank: **Ascendant** (Yes, I'm that cracked).
+- 🔫 Main: **Controller or Sentinel** – holding sites and denying plays like a true tactical mastermind.  
 - 💥 I bring the same **grind, precision, and strategy** to my code that I bring to the clutch.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fnGWvOMyJcC88B8lNa/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/NWZ9nRLTtCnCo/giphy.gif" width="300"/>
+  <img src="https://github.com/imcalledaditi/imcalledaditi/blob/5eafa2788eca020faa93a9b83aa28db13cc923a5/val.gif" />
 </div>
 
