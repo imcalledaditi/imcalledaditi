@@ -12,7 +12,7 @@
 
  
 <div align="center">
-    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/bat.gif?raw=true" alt="Batman">
+    <img src="https://github.com/imcalledaditi/imcalledaditi/blob/main/pics/bat.gif?raw=true" alt="Batman">
 
 <p align="center">
   
@@ -63,14 +63,27 @@
     
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" width="32.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=imcalledaditi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcalledaditi&langs_count=8&theme=transparent" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imcalledaditi&theme=transparent&hide_border=false" width="32.5%">
 
 </a>
 </div>
 
-     
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imcalledaditi&margin-w=8&margin-h=4&theme=onedark)
+# 🎮 Hobbies – When I'm Not Coding, I'm Clutching in Valorant
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1121688625415266414/1236237450405945464/480da0f8-46fa-4289-896f-9ea1ada8177e.png" width="150"/>
+</div>
+
+- 🕹️ My one and only hobby is **playing video games**.
+- 🧠 Favorite game? **Valorant** – the perfect combo of chaos, tactics, and accidental 1v5s.
+- 🏆 Current Rank: **Ascendant** (Yes, I'm that cracked).
+- 🔫 Main: Duelists or go home.
+- 💥 I bring the same **grind, precision, and strategy** to my code that I bring to the clutch.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fnGWvOMyJcC88B8lNa/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/NWZ9nRLTtCnCo/giphy.gif" width="300"/>
+</div>
 
