@@ -72,5 +72,5 @@
 
      
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ADITYAVOFFICIAL&margin-w=8&margin-h=4&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=imcalledaditi&margin-w=8&margin-h=4&theme=onedark)
 
