@@ -19,7 +19,7 @@
 
  # 🦉 About Me-
 
-- <img src="https://github.com/imcalledaditi/imcalledaditi/blob/e6bc3b9cf2369546ffa0e7a8f9b92acd9ad56583/witch.gif" width="20" />&nbsp;&nbsp;&nbsp;Hi! I’m Aditi, a 3rd-year Computer Science Engineering student at SRM Institute of Science and Technology, Kattankulathur, specializing in Big Data Analytics.
+- <img src="https://github.com/imcalledaditi/imcalledaditi/blob/e6bc3b9cf2369546ffa0e7a8f9b92acd9ad56583/witch.gif" width="29" />&nbsp;&nbsp;&nbsp;Hi! I’m Aditi, a 3rd-year Computer Science Engineering student at SRM Institute of Science and Technology, Kattankulathur, specializing in Big Data Analytics.
 
 - 📚 I’m passionate about data, from analyzing trends to building ML models and visual dashboards. I love turning raw data into actionable insights.
 
