@@ -56,6 +56,8 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black) <!-- Bright Yellow -->
 ![Transformers](https://img.shields.io/badge/Transformers-B2AC88.svg?style=for-the-badge&logo=python&logoColor=white) <!-- Forest Sage -->
 
+## 🧪 ML & GenAI App Builders-
+![Streamlit](https://img.shields.io/badge/Streamlit-EB5A3C?style=for-the-badge&logo=streamlit&logoColor=white)
     
 # 📊 GitHub Stats:
 
