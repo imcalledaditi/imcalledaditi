@@ -31,31 +31,31 @@
 
 - <img src="https://github.com/imcalledaditi/imcalledaditi/blob/d2f83a314ed1813ff967ac167de075d02dd89886/claw.gif" width="20" />&nbsp;&nbsp;&nbsp;My goal is to grow as a Data Analyst or Data Scientist, uncover insights, and help build smarter, data-driven solutions.
 
+# ⚙️ Tech Stack-
+![Python](https://img.shields.io/badge/python-E0218A?style=for-the-badge&logo=python&logoColor=ffdd54) <!-- Barbie Pink -->
+![C](https://img.shields.io/badge/c-222F5B.svg?style=for-the-badge&logo=c&logoColor=white) <!-- Ravenclaw Blue -->
+![C++](https://img.shields.io/badge/C++-8A9A5B.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!-- Moss Green (Forest Fairy) -->
+![MongoDB](https://img.shields.io/badge/MongoDB-0D6217?style=for-the-badge&logo=mongodb&logoColor=white) <!-- Slytherin Green -->
+![NodeJS](https://img.shields.io/badge/node.js-FFDAB9?style=for-the-badge&logo=node.js&logoColor=black) <!-- Barbie Peach -->
+![React](https://img.shields.io/badge/React-1CA9C9?style=for-the-badge&logo=react&logoColor=white) <!-- Mermaid Blue -->
+![MySQL](https://img.shields.io/badge/MySQL-7F0909.svg?style=for-the-badge&logo=MySQL&logoColor=white) <!-- Gryffindor Red -->
 
- # ⚙️ Tech Stack-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+## 📚 Libraries-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CDA4DE.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <!-- Mermaid Lavender -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EED5D2.svg?style=for-the-badge&logo=PyTorch&logoColor=black) <!-- Forest Fairy Pink -->
+![Pandas](https://img.shields.io/badge/pandas-FFB6C1.svg?style=for-the-badge&logo=pandas&logoColor=black) <!-- Barbie Baby Pink -->
+![NumPy](https://img.shields.io/badge/numpy-007C91.svg?style=for-the-badge&logo=numpy&logoColor=white) <!-- Mermaid Ocean Teal -->
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <!-- Original Bootstrap Purple (blends well) -->
 
- ## 📚 Libraries-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
- ## 🎛️ IDEs Used-
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![GColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+## 🎛️ IDEs Used-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-A9746E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <!-- Forest Soft Brown -->
+![GColab](https://img.shields.io/badge/Colab-EEE117?style=for-the-badge&logo=googlecolab&logoColor=black) <!-- Hufflepuff Yellow -->
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-00FFFF.svg?style=for-the-badge&logo=jupyter&logoColor=black) <!-- Barbie Aqua -->
 
 ## 🤖 GenAI Tools & Frameworks-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black) <!-- Bright Yellow -->
+![Transformers](https://img.shields.io/badge/Transformers-B2AC88.svg?style=for-the-badge&logo=python&logoColor=white) <!-- Forest Sage -->
+
     
 # 📊 GitHub Stats:
 
