@@ -59,20 +59,6 @@
 ## 🧪 ML & GenAI App Builders-
 ![Streamlit](https://img.shields.io/badge/Streamlit-EB5A3C?style=for-the-badge&logo=streamlit&logoColor=white)
     
-# 📊 GitHub Stats:
-
-<div align="center" style="display: flex; justify-content: center; align-items: start; gap: 20px; flex-wrap: wrap;">
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcalledaditi&langs_count=8&theme=transparent" width="35%"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imcalledaditi&theme=transparent&hide_border=false" width="50%"/>
-</div>
-
-
 # 🎮 Hobbies – When I'm Not Coding, I'm Clutching in Valorant
 
 <div align="center">
